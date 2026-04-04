@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fdpass/static/css/main.8ae967b2.css",
+    "main.js": "/fdpass/static/js/main.c9624bb0.js",
+    "index.html": "/fdpass/index.html",
+    "main.8ae967b2.css.map": "/fdpass/static/css/main.8ae967b2.css.map",
+    "main.c9624bb0.js.map": "/fdpass/static/js/main.c9624bb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ae967b2.css",
+    "static/js/main.c9624bb0.js"
+  ]
+}
